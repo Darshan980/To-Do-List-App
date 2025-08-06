@@ -1,3 +1,6 @@
+## 🔗 Live Demo
+[Click here to try the Weather App](https://darshan980.github.io//)
+
 # 🎯 To-Do List App
 
 A modern, feature-rich To-Do List application built with vanilla HTML, CSS, and JavaScript. This project demonstrates state management, DOM manipulation, user input handling, and localStorage persistence.
