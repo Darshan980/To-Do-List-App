@@ -1,5 +1,5 @@
 ## 🔗 Live Demo
-[Click here to try the TO-Do-List-App]((https://darshan980.github.io/To-Do-List-App/))
+[Click here to try the TO-Do-List-App](https://darshan980.github.io/To-Do-List-App/)
 
 # 🎯 To-Do List App
 
